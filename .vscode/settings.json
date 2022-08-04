@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Trung\\Downloads\\Programs\\slf4j-api-1.7.30.jar",
+        "c:\\Users\\Trung\\Downloads\\Programs\\slf4j-jdk14-1.7.30.jar"
+    ]
+}
